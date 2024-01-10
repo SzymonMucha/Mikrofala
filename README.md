@@ -9,7 +9,7 @@ Symulator powstał we współpracy z Adamem Forteckim, który odpowiada za kod, 
 1) W folderze build znajduje się plik Makrofala.exe
 2) Kliknięcie na kurczaka/słoik z wodorem spowoduje umieszczenie go w urządzeniu
 3) Najpierw wprowadzamy temperaturę, następnie czas gotowania (czas*temperatura = próg ugotowania):
-        * próg ugotowania < 10 niedogotowany
+   	* próg ugotowania < 10 niedogotowany
 	* próg ugotowania >= 10 & próg ugotowania < 12 upieczony
 	* próg ugotowania >= 12 & próg ugotowania < 16 spalony
 	* próg ugotowania >= 16 cień po kurczaku
