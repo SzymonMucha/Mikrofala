@@ -1,6 +1,8 @@
 # Mikrofala
 
-Symulator mikrofalówki. Tylko bardziej. W zasadzie to makrofalówka. Z temperaturą mierzoną w °kC i czasem w ms. Ów symulator powstał we współpracy z Adamem Forteckim, który odpowiada za kod, doborem/tworzeniem części audiowizualnej zajmowałem się ja (grafiki przedstawiające licznik Geigera, słoik, kurczaka, rękawice, a także nagranie po gotowaniu wodoru oraz wszystkie użyte tutaj dźwięki nie należą do nas i nie rościmy sobie do nich żadnych praw).
+Symulator mikrofalówki. Tylko bardziej. W zasadzie to makrofalówka. Z temperaturą mierzoną w °kC i czasem w ms.
+
+Symulator powstał we współpracy z Adamem Forteckim, który odpowiada za kod, doborem/tworzeniem części audiowizualnej zajmowałem się ja (grafiki przedstawiające licznik Geigera, słoik, kurczaka, rękawice, a także nagranie występujące po ugotowaniu wodoru oraz wszystkie użyte tutaj dźwięki, nie należą do nas i nie rościmy sobie do nich żadnych praw). Gra powstała przy użyciu silnika Unity. 
 
 # Instrukcja
 
